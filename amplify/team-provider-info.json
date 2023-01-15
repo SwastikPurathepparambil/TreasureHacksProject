@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-treasurehacks-dev-85846-authRole",
+      "UnauthRoleArn": "arn:aws:iam::698377952916:role/amplify-treasurehacks-dev-85846-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::698377952916:role/amplify-treasurehacks-dev-85846-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-treasurehacks-dev-85846-deployment",
+      "UnauthRoleName": "amplify-treasurehacks-dev-85846-unauthRole",
+      "StackName": "amplify-treasurehacks-dev-85846",
+      "StackId": "arn:aws:cloudformation:us-west-2:698377952916:stack/amplify-treasurehacks-dev-85846/b6504860-942c-11ed-ae55-06c0fbd747f5",
+      "AmplifyAppId": "dz9k2mbr5a9pp"
+    }
+  }
+}
